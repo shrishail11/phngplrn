@@ -2,14 +2,25 @@
  * Custom CSS
 */
 
-.fixedElement {
-    background-color: #c0c0c0;
+.banner {
+    background-color: white;
     position:fixed;
     top:0;
     width:100%;
     z-index:100;
-    opacity: 0.5;
+    font-family: arial;
     display: inline-block;
-    
+
+   
+}
+.searchbar {
+    background-color: rgba(255, 255, 255, 0);
+    position:fixed;
+    top:35px;
+    width:100%;
+    z-index:100;
+    font-family: arial;
+    display: inline-block;
+   
 }
 
