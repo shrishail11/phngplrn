@@ -6,11 +6,11 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>phonegapdemo1</name>
+    <name>Swech</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Swech as you like.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="shrishail.d@gmail.com" href="">
         PhoneGap Team
     </author>
     <content src="index.html" />
